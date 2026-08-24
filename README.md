@@ -5,8 +5,6 @@ ROBLOX FUN⬇️
 
 Roblox Fun-это проект который нужен для того что,бы найти интересные плейсы
 
-чтобы найти сайты для покупки Robux
-
 чтобы найти сайты для покупки вещей в MM2 и тд.
 
 САЙТЫ⬇️
@@ -24,6 +22,8 @@ Roblox Fun-это проект который нужен для того что,
 Мой GitHub https://github.com/k2782-suka
 
 Мой YouTube https://www.youtube.com/@bol-van
+
+Также у меня есть FunPay https://funpay.com/users/14966900/
 
 DNS⬇️
 
