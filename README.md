@@ -12,7 +12,7 @@ Roblox Fun-это проект который нужен для того что�
 
 Если вас обманули пишите в тех. поддержку на сайте
 
-СОЦ СЕТИ⬇️
+---СОЦ СЕТИ---
 
 Мой Discord mr.larperorig
 
@@ -24,7 +24,7 @@ Roblox Fun-это проект который нужен для того что�
 
 Также у меня есть FunPay https://funpay.com/users/14966900/
 
-ZAPRET⬇️
+---ZAPRET---
 
 Все о Zapret (Flowseal)➡️https://github.com/Flowseal/zapret-discord-youtube
 
