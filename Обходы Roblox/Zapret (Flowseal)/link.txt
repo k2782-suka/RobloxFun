@@ -1,3 +1,0 @@
-windows https://github.com/Flowseal/zapret-discord-youtube
-
-macos https://github.com/Flowseal/zapret-mac-discord-youtube
