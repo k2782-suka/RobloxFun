@@ -1,4 +1,4 @@
 [26.08.23] 1.0.0 Проект теперь на GitHub
 [26.08.25] 1.0.1 (mini update) Обновлен "README.md",новая папка Roblox внутри "Что важно знать о Roblox.txt"
-[26.08.27] 1.0.2 (mini update) Обновлен "README.d",новый документ "Связь с Tretyakovich"
+[26.08.27] 1.0.2 (mini update) Обновлен "README.md",новый документ "Связь с Tretyakovich"
 [26.09.12] 1.0.3 СКОРО!
