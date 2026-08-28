@@ -1,4 +1,0 @@
-loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/5857a6cfae3b902eb3c2dff7cdbf173b.lua"))()
-
-
-Delta and Xeno
