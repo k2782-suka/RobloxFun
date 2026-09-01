@@ -15,3 +15,5 @@ TXTBlox - проект который нужен для того чтобы уз
 ---ZAPRET---
 
 Все о Zapret (Flowseal)➡️https://github.com/Flowseal/zapret-discord-youtube
+
+Все о Zapret (bol-van)➡️https://github.com/bol-van/zapret ➡️ https://github.com/bol-van/zapret2
